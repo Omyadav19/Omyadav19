@@ -5,7 +5,7 @@ I'm a self-taught developer passionate about building offline AI tools and NLP-b
 
 ---
 
-## 🚀 Projects I'm Working in (Bachelor of Engineering)
+## 🚀 Project'S (Bachelor of Engineering)
 
 ### 🤖 AI Therapist Chatbot
 > A Django-based offline AI chatbot that provides therapy-style responses using Hugging Face and fast summarization.
@@ -30,7 +30,7 @@ I'm a self-taught developer passionate about building offline AI tools and NLP-b
 
 ---
 
-## 🚀 Projects I'm Working in (Diploma in Engineering)
+## 🚀 Project'S (Diploma in Engineering)
 > The main object is to provide maximum ride to people who was travel one place to other place. User can book any available seat for ride.
 - ⚙️ Django + HTML/CSS/JS
 - 📝 MYSQL for Database server
